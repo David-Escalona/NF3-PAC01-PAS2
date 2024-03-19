@@ -1,0 +1,31 @@
+2024-03-14 16:13:22	DEBUG	Some important text to register.
+2024-03-14 16:13:35	DEBUG	Some important text to register.
+2024-03-14 16:22:20	DEBUG	Some important text to register.
+2024-03-14 16:22:33	DEBUG	Some important text to register.
+2024-03-18 16:55:05	INFO	Mensaje 1 Guardado.
+2024-03-18 16:55:05	WARNING	Mensaje 2 Guardado.
+2024-03-18 16:55:05	DEBUG	Mensaje 3 Guardado.
+2024-03-18 16:58:08	DEBUG	Some important text to register.
+2024-03-18 16:58:44	INFO	Mensaje 1 Guardado.
+2024-03-18 16:58:44	WARNING	Mensaje 2 Guardado.
+2024-03-18 16:58:44	DEBUG	Mensaje 3 Guardado.
+2024-03-18 16:58:45	INFO	Mensaje 1 Guardado.
+2024-03-18 16:58:45	WARNING	Mensaje 2 Guardado.
+2024-03-18 16:58:45	DEBUG	Mensaje 3 Guardado.
+2024-03-18 16:58:46	INFO	Mensaje 1 Guardado.
+2024-03-18 16:58:46	WARNING	Mensaje 2 Guardado.
+2024-03-18 16:58:46	DEBUG	Mensaje 3 Guardado.
+2024-03-18 16:58:47	INFO	Mensaje 1 Guardado.
+2024-03-18 16:58:47	WARNING	Mensaje 2 Guardado.
+2024-03-18 16:58:47	DEBUG	Mensaje 3 Guardado.
+2024-03-18 17:03:33	DEBUG	Some important text to register.
+2024-03-18 17:03:35	DEBUG	Some important text to register.
+2024-03-18 17:03:35	DEBUG	Some important text to register.
+2024-03-18 17:03:36	DEBUG	Some important text to register.
+2024-03-18 17:16:07	DEBUG	Some important text to register.
+2024-03-18 17:16:19	DEBUG	Some important text to register.
+2024-03-18 17:17:44	DEBUG	Some important text to register.
+2024-03-18 17:17:45	DEBUG	Some important text to register.
+2024-03-18 17:17:46	DEBUG	Some important text to register.
+2024-03-18 17:17:47	DEBUG	Some important text to register.
+2024-03-18 17:18:27	DEBUG	Some important text to register.
